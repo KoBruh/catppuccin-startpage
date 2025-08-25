@@ -83,13 +83,13 @@ const macchiato = {
   surface1: "#45475a",
   surface0: "#343b2a",
   base: "#2b3026",
-  mantle: "#181825",
+  mantle: "#768660",
   crust: "#11111b",
 };
 
 const mocha = {
   rosewater: "#f5e0dc",
-  flamingo: "#f2cdcd",
+  flamingo: "#c04848ff",
   pink: "#f5c2e7",
   mauve: "#cba6f7",
   red: "#f38ba8",
