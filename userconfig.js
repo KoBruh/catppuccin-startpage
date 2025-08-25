@@ -3,7 +3,7 @@
 // Define preferred palette for light and dark mode
 // Available themes: latte, frappe, mocha, macchiato
 const preferredLightTheme = latte;
-const preferredDarkTheme = mocha;
+const preferredDarkTheme = macchiato;
 
 let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 
@@ -48,14 +48,14 @@ const default_configuration = {
           name: "bookmarks",
           links: [
             {
-              name: "YouTube",
-              url: "https://youtube.com",
+              name: "raindrop",
+              url: "https://app.raindrop.io",
               icon: "droplet-bolt",
               icon_color: palette.green,
             },
             {
-              name: "Twitter",
-              url: "https://twitter.com",
+              name: "musicForProgramming();",
+              url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.peach,
             },
