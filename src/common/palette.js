@@ -67,7 +67,7 @@ const macchiato = {
   maroon: "#eba0ac",
   peach: "#fab387",
   yellow: "#f9e2af",
-  green: "#a6e3a1",
+  green: "#768760",
   teal: "#94e2d5",
   sky: "#89dceb",
   sapphire: "#74c7ec",
